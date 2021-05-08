@@ -1,0 +1,15 @@
+{
+  "name": "bili-suburi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Haruki Tosa <13haruki28@gmail.com> (https://twitter.com/tosa_now)",
+  "license": "ISC",
+  "devDependencies": {
+    "bili": "^5.0.5"
+  }
+}
