@@ -1,5 +1,6 @@
 export function hello() {
-    console.log("hello")
+    const hello: string = "hello";
+    console.log(hello)
 }
 
 export function hello2() {

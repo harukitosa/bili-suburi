@@ -1,7 +1,8 @@
 'use strict';
 
 function hello() {
-  console.log("hello");
+  var hello = "hello";
+  console.log(hello);
 }
 
 var hoge = "hello";
